@@ -1,1 +1,1 @@
-# CSE6060---Statistical-Natural-Language
+# CSE6060-Statistical-Natural-Language
