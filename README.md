@@ -10,5 +10,5 @@ This course is taught in Vellore Institute of Technology's Masters of Artificial
 - [Experiment1-Most frequently used word using Frequency Distribution](https://github.com/juniemariam/CSE6060---Statistical-Natural-Language/blob/master/Assignment%201.ipynb)
 -Explore Coca Corpus
 - [Snowball Stemming](https://github.com/juniemariam/CSE6060---Statistical-Natural-Language/blob/master/Assignment%203.ipynb)
-- POS Tagging using Corpus Data
-- Cosine Similarity
+- [POS Tagging using Corpus Data](https://github.com/juniemariam/CSE6060---Statistical-Natural-Language/blob/master/Assignment%204.ipynb)
+- [Cosine Similarity Between Two Documents](https://github.com/juniemariam/CSE6060---Statistical-Natural-Language/blob/master/Assignment%205.ipynb)
