@@ -5,7 +5,7 @@ This course is taught in Vellore Institute of Technology's Masters of Artificial
 ### Labs
 * [Lab1](https://github.com/juniemariam/CSE6060---Statistical-Natural-Language/blob/master/LAB1%20NLP.ipynb)
 * [Lab 2](https://github.com/juniemariam/CSE6060---Statistical-Natural-Language/blob/master/LAB2%20NLP.ipynb)
-* [Lab 3](
+* [Lab 3](https://github.com/juniemariam/CSE6060---Statistical-Natural-Language/blob/master/LAB3%20NLP.ipynb)
 ### Experiments
 - Explore Coca
 - POS Tagging using Corpus Data
