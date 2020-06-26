@@ -13,4 +13,4 @@ This course is taught in Vellore Institute of Technology's Masters of Artificial
 - [Experiment 3 -Snowball Stemming](https://github.com/juniemariam/CSE6060---Statistical-Natural-Language/blob/master/Assignment%203.ipynb)
 - [Experiment 4-POS Tagging using Corpus Data](https://github.com/juniemariam/CSE6060---Statistical-Natural-Language/blob/master/Assignment%204.ipynb)
 - [Experiment 5-Cosine Similarity Between Two Documents](https://github.com/juniemariam/CSE6060---Statistical-Natural-Language/blob/master/Assignment%205.ipynb)
--REVIEW 2
+- REVIEW 2
