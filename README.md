@@ -24,9 +24,9 @@ This course is taught in Vellore Institute of Technology's Masters of Artificial
     * [Functions of Regional Language](https://github.com/juniemariam/CSE6060---Statistical-Natural-Language/blob/master/Activity3.ipynb)
 - TASK 4 
     * Papers
-      * [Paper 1](https://www.ijser.org/onlineResearchPaperViewer.aspx?Information-Retrieval-in-Malayalam-Using-Natural-Language-Processing.pdf)
-      * [Paper 2](https://www.ijcsi.org/papers/IJCSI-8-5-3-185-191.pdf)
-      * [Paper 3](https://www.researchgate.net/publication/308872307_Named_Entity_Recognition_for_Malayalam_language_A_CRF_based_approach)
+      * [Paper 1](https://github.com/juniemariam/CSE6060---Statistical-Natural-Language/blob/master/Information-Retrieval-in-Malayalam-Using-Natural-Language-Processing.pdf)
+      * [Paper 2](https://github.com/juniemariam/CSE6060---Statistical-Natural-Language/blob/master/NamedEntityRecognitionforMalayalamlanguageACRFbasedapproach.pdf)
+      * [Paper 3](https://github.com/juniemariam/CSE6060---Statistical-Natural-Language/blob/master/anishaazizt2015.pdf)
 - TASK 5
     * Real World Application for available iNLTK
 
