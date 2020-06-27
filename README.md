@@ -28,5 +28,5 @@ This course is taught in Vellore Institute of Technology's Masters of Artificial
       * [Paper 2](https://github.com/juniemariam/CSE6060---Statistical-Natural-Language/blob/master/NamedEntityRecognitionforMalayalamlanguageACRFbasedapproach.pdf)
       * [Paper 3](https://github.com/juniemariam/CSE6060---Statistical-Natural-Language/blob/master/anishaazizt2015.pdf)
 - TASK 5
-    * Real World Application for available iNLTK
+    * [Real World Application for available iNLTK](https://github.com/juniemariam/CSE6060---Statistical-Natural-Language/blob/master/REAL%20TIME%20APPLICATIONS%20OF%20NLP%20FOR%20REGIONAL%20LANGUAGES.pdf)
 
