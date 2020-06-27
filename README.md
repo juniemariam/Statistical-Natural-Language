@@ -24,7 +24,7 @@ This course is taught in Vellore Institute of Technology's Masters of Artificial
     * [Functions of Regional Language](https://github.com/juniemariam/CSE6060---Statistical-Natural-Language/blob/master/Activity3.ipynb)
 - TASK 4 
     * Papers
-      * [Paper 1]()
+      * [Paper 1](https://www.ijser.org/onlineResearchPaperViewer.aspx?Information-Retrieval-in-Malayalam-Using-Natural-Language-Processing.pdf)
       * [Paper 2]()
       * [Paper 3]()
 - TASK 5
