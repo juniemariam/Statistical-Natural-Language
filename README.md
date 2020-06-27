@@ -25,8 +25,8 @@ This course is taught in Vellore Institute of Technology's Masters of Artificial
 - TASK 4 
     * Papers
       * [Paper 1](https://www.ijser.org/onlineResearchPaperViewer.aspx?Information-Retrieval-in-Malayalam-Using-Natural-Language-Processing.pdf)
-      * [Paper 2]()
-      * [Paper 3]()
+      * [Paper 2](https://www.ijcsi.org/papers/IJCSI-8-5-3-185-191.pdf)
+      * [Paper 3](https://www.researchgate.net/publication/308872307_Named_Entity_Recognition_for_Malayalam_language_A_CRF_based_approach)
 - TASK 5
     * Real World Application for available iNLTK
 
