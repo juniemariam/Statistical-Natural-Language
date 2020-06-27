@@ -16,7 +16,7 @@ This course is taught in Vellore Institute of Technology's Masters of Artificial
 #### REVIEW 2
 - TASK 1 
   * [Perform Embedding](https://github.com/juniemariam/CSE6060---Statistical-Natural-Language/blob/master/Activity%201.ipynb)
-  * [Additional Exploration](https://github.com/juniemariam/CSE6060---Statistical-Natural-Language/blob/master/ACTIVITY.ipynb)
+  * [Additional Exploration](https://colab.research.google.com/drive/14xh43aYnChioM9FoqpHIZ301ljfWEzSa)
   * [Semantic Analysis](https://github.com/juniemariam/CSE6060---Statistical-Natural-Language/blob/master/SemanticAnalysis.ipynb)
 - TASK 2
     * [Perform Chunking](https://github.com/juniemariam/CSE6060---Statistical-Natural-Language/blob/master/Activity%202.ipynb)
